@@ -41,3 +41,12 @@ app-example
 # generated native folders
 /ios
 /android
+
+# Firebase configuration and sensitive files
+firebase/
+firestoreTest.js
+readSampleData.js
+uploadSampleData.js
+
+
+
